@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\LLMs\\Llama\\Llama 3-2\\BabysFirstTextAdventure\\BabysFirstTextAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C59F478-4D12-4E0C-9BAB-5656D68BAEFC}|BabysFirstTextAdventure.csproj|c:\\code\\llms\\llama\\llama 3-2\\babysfirsttextadventure\\babysfirsttextadventure\\worldgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C59F478-4D12-4E0C-9BAB-5656D68BAEFC}|BabysFirstTextAdventure.csproj|solutionrelative:worldgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C59F478-4D12-4E0C-9BAB-5656D68BAEFC}|BabysFirstTextAdventure.csproj|c:\\code\\llms\\llama\\llama 3-2\\babysfirsttextadventure\\babysfirsttextadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C59F478-4D12-4E0C-9BAB-5656D68BAEFC}|BabysFirstTextAdventure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldGen.cs",
+              "DocumentMoniker": "C:\\Code\\LLMs\\Llama\\Llama 3-2\\BabysFirstTextAdventure\\BabysFirstTextAdventure\\WorldGen.cs",
+              "RelativeDocumentMoniker": "WorldGen.cs",
+              "ToolTip": "C:\\Code\\LLMs\\Llama\\Llama 3-2\\BabysFirstTextAdventure\\BabysFirstTextAdventure\\WorldGen.cs",
+              "RelativeToolTip": "WorldGen.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:07:42.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\LLMs\\Llama\\Llama 3-2\\BabysFirstTextAdventure\\BabysFirstTextAdventure\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Code\\LLMs\\Llama\\Llama 3-2\\BabysFirstTextAdventure\\BabysFirstTextAdventure\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:03:23.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
