@@ -9,7 +9,7 @@ namespace BabysFirstTextAdventure
 {
     class World
     {
-        private List<WorldBlock> blocks;
+        public List<WorldBlock> blocks;
         public World()
         {  //lot of things can be done with this doesn't matter right now, like a bunch of json or something, for now just a cs file to build the base world for some basic testing
 
