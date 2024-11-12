@@ -1,3 +1,10 @@
+
+
+
+
+
+--------
+
 So....
 
 
@@ -17,3 +24,5 @@ Create user class
 Create basic class that just builds simple world --> transition to json config or other config language based world construction. 
 create terminal in main poi. 
 Integration of an llm is probably easiest with chatgpt4 per now, and we can dedicate maybe 50 euro for this purpose for now. 
+Basic movement
+Also, basic means of displaying world state to user.

@@ -19,5 +19,19 @@ I_______
 
 
 
+ //Takes input from user
+ //lets add a simple set off verbs as a switch statement class, I guess? 
+string myVerb;
+ActionInterpreter interpreter = new ActionInterpreter();
+While(!="ExitGame")
+{
+
+myVerb = Console.ReadLine();
+
+
+}
+
+
+
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");

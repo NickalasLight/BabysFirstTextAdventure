@@ -34,7 +34,7 @@ namespace BabysFirstTextAdventure
 
 
         }
-        internal class WorldBlock
+        public class WorldBlock
         {
             public Coordinate coordinate;
             public List<String> descriptions;
@@ -53,7 +53,7 @@ namespace BabysFirstTextAdventure
                 this.gameNpcs = gameNpcs;
             }
         }
-        internal class GameNpc
+        public class GameNpc
         {
             private string name;
             private string description;
@@ -74,7 +74,7 @@ namespace BabysFirstTextAdventure
         }
 
         //inventory item? Something of value? Lots can be added here later.
-        internal class GameObject //--> bottle of beer from the shop
+        public class GameObject //--> bottle of beer from the shop
         {
             //weight; value; description;
             private string description;
@@ -100,7 +100,7 @@ namespace BabysFirstTextAdventure
 
         }
         //building or unique interactable? --> when a user heads to a coordinate, they ask for a description, it provides a description of all pois, all buildings.
-        internal class GamePoi
+        public class GamePoi
         {
             private string name;
             private string description;
@@ -113,7 +113,7 @@ namespace BabysFirstTextAdventure
 
             }
         }
-        internal class GameBuilding
+        public class GameBuilding
         {
             private Coordinate coordinate;
             private string owner;
@@ -128,10 +128,10 @@ namespace BabysFirstTextAdventure
                 this.description = description;
             }
         }
-        internal class Coordinate
+        public class Coordinate
         {
-            private int y;
-            private int x;
+            public int y;
+            public int x;
 
             //so, will have worldgen done at start I guess and not accessible outside the world namespace
             public Coordinate(int y, int x)
