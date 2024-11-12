@@ -34,3 +34,10 @@ create terminal in main poi.
 Integration of an llm is probably easiest with chatgpt4 per now, and we can dedicate maybe 50 euro for this purpose for now. 
 Basic movement
 Also, basic means of displaying world state to user.
+
+--------
+
+So far chatgpt is the most accessible, and the most popular, but for learning about llm use, finetuning, etc.
+using some opensource stuff is going to be a lot more useful I think. I think for now, sticking with the most basic of instruction sets, and just setting up and testing the main "terminal" is going to be the next step. 
+
+I think we will essentially start with this --> I don't like the .net to chatgpt library, and should just learn the best way for us to use it ourselves with python. In some extreme case we will create our own api that is using python to talk the the gpt api and connecting to our c# terminal that is hosted as some webapp. Tonight I will test that some basic functionality works, and then from there focus on chatgpt as a expensive prototype stand in. But, I don't feel like spending $5 a user per hour they play or something, but we will log input/output tokens and costs per hour for our own testing. 
