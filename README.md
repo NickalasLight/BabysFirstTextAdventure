@@ -1,3 +1,6 @@
+will make python, using selenium if necessary to just scrape for the prototype. 
+-----11/18/2024^ (probably  could just view change history, but fuck it) 
+
 https://platform.openai.com/docs/api-reference/making-requests --> we will start with the python,
 and run everything locally for now. 
 
